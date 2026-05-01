@@ -1,4 +1,4 @@
-# credit-risk-prediction
+
 # Credit Risk Prediction
 
 This is an end-to-end Machine Learning project that predicts whether a loan applicant is high risk or low risk.
